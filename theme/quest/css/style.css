@@ -21,7 +21,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%;
+  font-size: 120%;
   font: inherit;
   vertical-align: baseline;
   line-height: 1.5em; }
@@ -98,7 +98,7 @@ h5 {
     color: #27ae60; }
 
 h6 {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 300; }
   h6 a:hover {
     color: #27ae60; }
@@ -462,13 +462,13 @@ hr {
   clip: auto !important;
   color: #21759b;
   display: block;
-  font-size: 14px;
+  font-size: 16px;
   font-size: 0.875rem;
   font-weight: bold;
   height: auto;
   left: 5px;
   line-height: normal;
-  padding: 15px 23px 14px;
+  padding: 15px 23px 16px;
   text-decoration: none;
   top: 5px;
   width: auto;
@@ -994,7 +994,7 @@ hr {
       line-height: inherit;
       border-top: 3px solid transparent; }
       .main-navigation .nav > li > a {
-        font-size: 14px;
+        font-size: 16px;
         line-height: inherit;
         padding: 0 7.5px; }
         .main-navigation .nav > li > a:hover {
@@ -1444,8 +1444,8 @@ article {
       list-style-type: square; }
   .entry-content .alert {
     margin-bottom: 20px;
-    padding-bottom: 14px;
-    padding-top: 14px;
+    padding-bottom: 16px;
+    padding-top: 16px;
     padding-right: 25px; }
     .entry-content .alert strong {
       color: #c09853; }
@@ -2007,7 +2007,7 @@ a.expand {
   .post-categories:before,
   .post-tags:before {
     display: inline-block;
-    font: 14px FontAwesome;
+    font: 16px FontAwesome;
     content: "\f15b";
     color: #9d9a9a;
     margin-right: 10px; }

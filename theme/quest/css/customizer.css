@@ -1,24 +1,24 @@
 /* Theme/Text Colors */
 .entry-content blockquote,.action-icon.normal,.action, .pagination>.active>a, .pagination .current, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus, .main-navigation .navbar-toggle, .main-navigation .nav > li.current-menu-item, .main-navigation .nav > li.current-menu-parent {
-	border-color: #27ae60;
+	border-color: #AAAAAA;
 }
 
 .button, input[type="submit"],#submit,.wpcf7-submit,.action-icon.normal:after,.action-icon.normal:hover,.social-icon-container .social-icon:hover,.main-footer a.tag:hover,.pagination .current,.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus, .main-navigation .navbar-toggle,.quest-gallery .quest-gallery-thumb .fa, .sticky-post-label,.cd-top {
-	background-color: #27ae60;
+	background-color: #AAAAAA;
 }
 
 span a, p a,a,a.tag,.pagination a,.action-icon.normal, .pagination>li>a, .pagination>li>span, .main-navigation .nav > li.current-menu-item > a, .main-navigation .nav > li.current-menu-parent > a {
-	color: #27ae60;
+	color: #333;
 }
 
 span a:hover,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,p a:hover,a:hover,a.tag:hover,.pagination a,.pagination.post-pagination a:hover,.action-icon.normal, .pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus {
-	color: #239e57;
+	color: #1094e8;
 }
 
 .button:hover, input[type="submit"]:hover, input[type="submit"]:active, #submit:hover, .wpcf7-submit:hover, #submit:active, .wpcf7-submit:active, .button-:active {
-	-webkit-box-shadow: 0 0 5px #239e57;
-	box-shadow: 0 0 5px #239e57;
-	background: #239e57;
+	-webkit-box-shadow: 0 0 5px #001f3f;
+	box-shadow: 0 0 5px #001f3f;
+	background: #001f3f;
 }
 
 #content textarea, .wpcf7 textarea, #content select, .wpcf7 select, #content input[type="text"], .wpcf7 input[type="text"], #content input[type="password"], .wpcf7 input[type="password"], #content input[type="datetime"], .wpcf7 input[type="datetime"], #content input[type="datetime-local"], .wpcf7 input[type="datetime-local"], #content input[type="date"], .wpcf7 input[type="date"], #content input[type="month"], .wpcf7 input[type="month"], #content input[type="time"], .wpcf7 input[type="time"], #content input[type="week"], .wpcf7 input[type="week"], #content input[type="number"], .wpcf7 input[type="number"], #content input[type="email"], .wpcf7 input[type="email"], #content input[type="url"], .wpcf7 input[type="url"], #content input[type="search"], .wpcf7 input[type="search"], #content input[type="tel"], .wpcf7 input[type="tel"], #content input[type="color"], .wpcf7 input[type="color"], .entry-content blockquote, .action, a .action-icon, .action-icon, .post-grid, .recent-post, #comments .post-comments-form textarea, #comments .post-comments-form input[type=text], #comments #post-comments-form textarea, #comments #post-comments-form input[type=text], #content article.error404 .search input, #menu-item-search form input, .main-sidebar .search input {
@@ -126,8 +126,8 @@ body {
 }
 
 .copyright {
-	background-color: #2B3A42;
-	color: #d4d7d9;
+	background-color: #d4d7d9;
+	color: #2B3A42;
 }
 
 .social-icon-container .social-icon {
@@ -142,7 +142,7 @@ body {
 
 			/* Typography */
 body, .tooltip {
-	font: 14px 'Open Sans';
+	font: 16px 'Open Sans';
 	line-height: 1.5em;
 	font-weight: 300;
 	font-style: normal;
@@ -202,7 +202,7 @@ h5 {
 }
 
 h6 {
-	font: 14px 'Open Sans';
+	font: 16px 'Open Sans';
 	line-height: 1.5em;
 	font-weight: 300;
 	font-style: normal;
@@ -212,7 +212,7 @@ h6 {
 }
 
 .main-navigation .nav > li > a {
-	font: 14px 'Open Sans';
+	font: 16px 'Open Sans';
 	line-height: inherit;
 	font-weight: 300;
 	font-style: normal;
@@ -222,7 +222,7 @@ h6 {
 }
 
 .main-navigation .nav .dropdown-menu li a {
-	font: 14px 'Open Sans';
+	font: 16px 'Open Sans';
 	line-height: 2.5em;
 	font-weight: 300;
 	font-style: normal;
@@ -242,7 +242,7 @@ h6 {
 }
 
 .site-description {
-	font: 14px 'Open Sans';
+	font: 16px 'Open Sans';
 	line-height: 1.5em;
 	font-weight: 300;
 	font-style: normal;
@@ -256,7 +256,7 @@ h6 {
 }
 
 .main-sidebar .sidebar-widget {
-	font: 14px 'Open Sans';
+	font: 16px 'Open Sans';
 	line-height: 1.5em;
 	font-weight: 300;
 	font-style: normal;
@@ -276,7 +276,7 @@ h6 {
 }
 
 .main-sidebar {
-	font: 14px 'Open Sans';
+	font: 16px 'Open Sans';
 	line-height: 1.5em;
 	font-weight: 300;
 	font-style: normal;
@@ -296,7 +296,7 @@ h6 {
 }
 
 .copyright {
-	font: 14px 'Open Sans';
+	font: 16px 'Open Sans';
 	line-height: 1.5em;
 	font-weight: 300;
 	font-style: normal;
